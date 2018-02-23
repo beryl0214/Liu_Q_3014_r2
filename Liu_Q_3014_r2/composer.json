@@ -1,0 +1,14 @@
+{
+    "name": "beryl0214/login",
+    "type": "project",
+    "require": {
+        "ext-mbstring": "*",
+        "sendgrid/sendgrid": "^6.0"
+    },
+    "authors": [
+        {
+            "name": "Qing Liu",
+            "email": "q_liu20@fanshaweonline.ca"
+        }
+    ]
+}
